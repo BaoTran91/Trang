@@ -1,8 +1,8 @@
 //
-//  loginViewModel.swift
+//  TimeSlot.swift
 //  Trang
 //
-//  Created by Bao Tran on 6/13/17.
+//  Created by Bao Tran on 6/20/17.
 //  Copyright © 2017 Bao Tran. All rights reserved.
 //
 
