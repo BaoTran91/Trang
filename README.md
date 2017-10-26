@@ -1,4 +1,4 @@
-#4 Make Appointments
+# Make Appointments
 
 iOS App for Tracy's Salon written in Swift. Will later include android.
 
